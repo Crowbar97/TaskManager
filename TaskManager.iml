@@ -7,14 +7,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/src/JAXB" />
+          <root url="file://$MODULE_DIR$/src/jaxb" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/src/JAXB" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/src/jaxb" recursive="false" />
       </library>
     </orderEntry>
   </component>
